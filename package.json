@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/WDelesposti/research-service/issues"
   },
-  "homepage": "https://github.com/WDelesposti/research-service#readme"
+  "homepage": "https://github.com/WDelesposti/research-service#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.7.3"
+  }
 }
